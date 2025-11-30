@@ -233,20 +233,24 @@
         "pinnedOnStartup": false
     },
     "enabledPanels": [
-        "wActionCenter",
-        "wBar",
-        "wBackground",
-        "wNotificationCenter",
-        "wOnScreenDisplay",
-        "wStartMenu",
+        "iiBar",
+        "iiBackground",
         "iiCheatsheet",
+        "iiDock",
         "iiLock",
+        "iiMediaControls",
         "iiNotificationPopup",
+        "iiOnScreenDisplay",
         "iiOnScreenKeyboard",
         "iiOverlay",
+        "iiOverview",
         "iiPolkit",
         "iiRegionSelector",
+        "iiScreenCorners",
         "iiSessionScreen",
+        "iiSidebarLeft",
+        "iiSidebarRight",
+        "iiVerticalBar",
         "iiWallpaperSelector"
     ],
     "hacks": {
@@ -334,7 +338,7 @@
         "rows": 2,
         "scale": 0.18
     },
-    "panelFamily": "waffle",
+    "panelFamily": "ii",
     "policies": {
         "ai": 1,
         "weeb": 1
