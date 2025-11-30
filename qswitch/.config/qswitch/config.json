@@ -1,0 +1,8 @@
+{
+  "flavours": ["ii", "caelestia", "noctalia"],
+  "keybinds": {
+    "caelestia": "caelestia.conf",
+    "ii": "default",
+    "noctalia": "noctalia.conf"
+  }
+}
