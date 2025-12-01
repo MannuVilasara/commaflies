@@ -4,5 +4,6 @@
     "caelestia": "caelestia.conf",
     "ii": "default",
     "noctalia": "noctalia.conf"
-  }
+  },
+  "unbinds": true
 }
