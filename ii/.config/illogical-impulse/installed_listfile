@@ -125,6 +125,7 @@
 /home/mannu/.config/quickshell/ii/assets/icons/fluent/chevron-right.svg
 /home/mannu/.config/quickshell/ii/assets/icons/fluent/chevron-up-filled.svg
 /home/mannu/.config/quickshell/ii/assets/icons/fluent/chevron-up.svg
+/home/mannu/.config/quickshell/ii/assets/icons/fluent/corporation.svg
 /home/mannu/.config/quickshell/ii/assets/icons/fluent/cut-filled.svg
 /home/mannu/.config/quickshell/ii/assets/icons/fluent/cut.svg
 /home/mannu/.config/quickshell/ii/assets/icons/fluent/dark-theme-filled.svg
@@ -705,6 +706,8 @@
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WFadeLoader.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WIcons.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WIndeterminateProgressBar.qml
+/home/mannu/.config/quickshell/ii/modules/waffle/looks/WMenuItem.qml
+/home/mannu/.config/quickshell/ii/modules/waffle/looks/WMenu.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WPanelFooterButton.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WPanelIconButton.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WPanelPageColumn.qml
@@ -721,6 +724,7 @@
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WTextWithFixedWidth.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WToolTipContent.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/looks/WToolTip.qml
+/home/mannu/.config/quickshell/ii/modules/waffle/looks/WUserAvatar.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/notificationCenter/CalendarHeader.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/notificationCenter/CalendarView.qml
 /home/mannu/.config/quickshell/ii/modules/waffle/notificationCenter/CalendarWidget.qml
