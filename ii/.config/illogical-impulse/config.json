@@ -130,7 +130,7 @@
         },
         "borderless": false,
         "bottom": false,
-        "cornerStyle": 1,
+        "cornerStyle": 0,
         "floatStyleShadow": true,
         "indicators": {
             "notifications": {
@@ -233,24 +233,20 @@
         "pinnedOnStartup": false
     },
     "enabledPanels": [
-        "iiBar",
-        "iiBackground",
+        "wActionCenter",
+        "wBar",
+        "wBackground",
+        "wNotificationCenter",
+        "wOnScreenDisplay",
+        "wStartMenu",
         "iiCheatsheet",
-        "iiDock",
         "iiLock",
-        "iiMediaControls",
         "iiNotificationPopup",
-        "iiOnScreenDisplay",
         "iiOnScreenKeyboard",
         "iiOverlay",
-        "iiOverview",
         "iiPolkit",
         "iiRegionSelector",
-        "iiScreenCorners",
         "iiSessionScreen",
-        "iiSidebarLeft",
-        "iiSidebarRight",
-        "iiVerticalBar",
         "iiWallpaperSelector"
     ],
     "hacks": {
@@ -338,7 +334,7 @@
         "rows": 2,
         "scale": 0.18
     },
-    "panelFamily": "ii",
+    "panelFamily": "waffle",
     "policies": {
         "ai": 1,
         "weeb": 1
@@ -523,6 +519,7 @@
         },
         "tweaks": {
             "smootherMenuAnimations": true,
+            "smootherSearchBar": true,
             "switchHandlePositionFix": true
         }
     },

@@ -88,9 +88,9 @@
     },
     "enabled": true,
     "visualiser": {
-      "blur": false,
+      "blur": true,
       "enabled": false,
-      "autoHide": true,
+      "autoHide": false,
       "rounding": 1,
       "spacing": 1
     }
@@ -264,7 +264,7 @@
         "description": "Shutdown the system",
         "command": ["systemctl", "poweroff"],
         "enabled": true,
-        "dangerous": true
+        "dangerous": false
       },
       {
         "name": "Reboot",
@@ -272,7 +272,7 @@
         "description": "Reboot the system",
         "command": ["systemctl", "reboot"],
         "enabled": true,
-        "dangerous": true
+        "dangerous": false
       },
       {
         "name": "Logout",
@@ -280,7 +280,7 @@
         "description": "Log out of the current session",
         "command": ["pkill", "-i", "Hyprland"],
         "enabled": true,
-        "dangerous": true
+        "dangerous": false
       },
       {
         "name": "Lock",
@@ -343,7 +343,7 @@
     "playerAliases": [
       { "from": "com.github.th_ch.youtube_music", "to": "YT Music" }
     ],
-    "weatherLocation": "",
+    "weatherLocation": "Jalalabad",
     "useFahrenheit": false,
     "useTwelveHourClock": false,
     "smartScheme": true,
